@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Luna18-ctrl/Practica5MSFA)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Frausto Luna Carlos Daniel [C18210366]; LC182210366@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -36,13 +36,13 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 58.4716, 59.4256, 58.8274, 59.5532, 58.8725, 58.6282, 59.4151, 58.8962, 59.1421, 59.0377;
+2. x2(0) = 43.6059, 44.3174, 43.8713, 44.4126, 43.9049, 43.7227, 44.3095, 43.9226, 44.1060, 44.0281;
+3. x3(0) = 877.0740, 891.3843, 882.4113, 893.2980, 883.0873, 879.4233, 891.2262, 883.4437, 887.1317, 885.5655;
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Modelo matematico; Simulaciones numericas; Circuitos electricos; Parametros gamma-beta; Regeneración de glóbulos rojos.
 
 ## Lista de archivos incluidos en el repositorio
 
