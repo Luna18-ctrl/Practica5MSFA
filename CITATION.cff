@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: Lenguaje m
+type: software
+authors:
+  - given-names: 'Frausto Luna '
+    family-names: Carlos Daniel
+    email: LC18210366@tijuana.tecnm.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/Luna18-ctrl/Practica5MSFA'
+keywords:
+  - Modelo matemarico
+  - Simulaciones numericas
+  - Circuitos electricos
+  - Parametros gamma-beta
+  - Regeneracion de globulos rojos
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
